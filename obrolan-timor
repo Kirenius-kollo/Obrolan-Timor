@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timor-Chat</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Timor-Chat</h1>
+    </header>
+    <main>
+        <p>Timor-Chat is a real-time chat application built with Python, JavaScript, HTML, and CSS.</p>
+        <a href="https://github.com/Kirenius-kollo/Timor-Chat">View on GitHub</a>
+    </main>
+    <footer>
+        <p>&copy; 2025 Timor-Chat. All rights reserved.</p>
+    </footer>
+</body>
+</html>
